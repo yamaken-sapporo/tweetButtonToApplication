@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>hazisarashi</string>
+	<string>yamaken</string>
 	<key>Builder Version</key>
 	<string>6534.50</string>
 	<key>CFBundleDisplayName</key>
-	<string>tweetButtonToApplication</string>
+	<string>tweetButtonToApplicationPlus</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.hazisarashi.tweetbuttontoapplication</string>
+	<string>jp.yamaken.tweetbuttontoapplicationplus</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.2.2</string>
+	<string>1.3.0</string>
 	<key>CFBundleVersion</key>
 	<string>8</string>
 	<key>Chrome</key>
@@ -66,8 +66,8 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://hazisarashi.com/update_api/tweetButtonToApplication.plist</string>
+	<string></string>
 	<key>Website</key>
-	<string>http://hazisarashi.com/</string>
+	<string></string>
 </dict>
 </plist>
