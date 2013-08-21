@@ -93,7 +93,7 @@ function tweet( tweet_data ){
 
 	// Tweetbot for Mac
 	else if ( options.twitterClient == 'tweetbot' ){
-		safari.application.browserWindows[0].tabs[0].url = 'tweetbot:' + encodeURI( text );
+		safari.application.browserWindows[0].tabs[0].url = 'tweetbot://post?text=' + encodeURI( text );
 	}
 }
 
